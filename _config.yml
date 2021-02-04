@@ -1,1 +1,3 @@
 baseurl: "/hechengdajigou"
+include: [res/import]
+include: [res/raw-assets]
